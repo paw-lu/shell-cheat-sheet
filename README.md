@@ -15,6 +15,9 @@ go by a little smoother.
 
 Commands most often used
 in shell scripting.
+Many of these descriptions
+were pulled from
+the [Shell Scripting Tutorial](https://www.shellscript.sh/quickref.html).
 
 | Command    | Description                                                                 | Example                                                             |
 | ---------- | --------------------------------------------------------------------------- | ------------------------------------------------------------------- |
