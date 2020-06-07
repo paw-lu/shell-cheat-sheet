@@ -15,6 +15,7 @@ go by a little smoother.
 
 - [Advancing the Bash Shell](http://samrowe.com/wordpress/advancing-in-the-bash-shell/)
 - [Effective Shell](https://effective-shell.com/)
+- [Linux Productivity Tools](https://www.usenix.org/sites/default/files/conference/protected-files/lisa19_maheshwari.pdf)
 - [Shell Scripting Tutorial](https://www.shellscript.sh/)
 - [Shell Style Guide](https://google.github.io/styleguide/shellguide.html)
 - [Shell productivity tips and tricks](https://blog.balthazar-rouberol.com/shell-productivity-tips-and-tricks.html)
