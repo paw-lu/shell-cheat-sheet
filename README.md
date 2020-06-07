@@ -20,6 +20,7 @@ go by a little smoother.
 - [Ten Things I Wish I’d Known About bash](https://zwischenzugs.com/2018/01/06/ten-things-i-wish-id-known-about-bash/)
 - [Shell Style Guide](https://google.github.io/styleguide/shellguide.html)
 - [reasonable-shell-script](https://github.com/mjambon/reasonable-shell-script)
+- [explainshell](https://explainshell.com/)
 
 ## Shell scripts
 
