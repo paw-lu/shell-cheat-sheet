@@ -13,14 +13,14 @@ go by a little smoother.
 
 ## References
 
-- [Shell Scripting Tutorial](https://www.shellscript.sh/)
-- [Effective Shell](https://effective-shell.com/)
-- [Shell productivity tips and tricks](https://blog.balthazar-rouberol.com/shell-productivity-tips-and-tricks.html)
 - [Advancing the Bash Shell](http://samrowe.com/wordpress/advancing-in-the-bash-shell/)
-- [Ten Things I Wish I’d Known About bash](https://zwischenzugs.com/2018/01/06/ten-things-i-wish-id-known-about-bash/)
+- [Effective Shell](https://effective-shell.com/)
+- [Shell Scripting Tutorial](https://www.shellscript.sh/)
 - [Shell Style Guide](https://google.github.io/styleguide/shellguide.html)
-- [reasonable-shell-script](https://github.com/mjambon/reasonable-shell-script)
+- [Shell productivity tips and tricks](https://blog.balthazar-rouberol.com/shell-productivity-tips-and-tricks.html)
+- [Ten Things I Wish I’d Known About bash](https://zwischenzugs.com/2018/01/06/ten-things-i-wish-id-known-about-bash/)
 - [explainshell](https://explainshell.com/)
+- [reasonable-shell-script](https://github.com/mjambon/reasonable-shell-script)
 
 ## Shell scripts
 
