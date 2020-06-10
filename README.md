@@ -35,7 +35,7 @@ the [Shell Scripting Tutorial](https://www.shellscript.sh/quickref.html).
 | ---------- | --------------------------------------------------------------------------- | ------------------------------------------------------------------- |
 | `&`        | Run the previous command in the background                                  | `ls &`                                                              |
 | `&&`       | Logical AND                                                                 | `if [ "$foo" -ge "0" ] && [ "$foo" -le "9"]`                        |
-| `\|`       | Logical OR                                                                  | `if [ "$foo" -lt "0" ] \| [ "$foo" -gt "9" ]` (not in Bourne shell) |
+| `\|\|`       | Logical OR                                                                  | `if [ "$foo" -lt "0" ] \|\| [ "$foo" -gt "9" ]` (not in Bourne shell) |
 | `^`        | Start of line                                                               | `grep "^foo"`                                                       |
 | `$`        | End of line                                                                 | `grep "foo$"`                                                       |
 | `=`        | String equality (cf. -eq)                                                   | `if [ "$foo" = "bar" ]`                                             |
