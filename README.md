@@ -22,6 +22,7 @@ go by a little smoother.
 - [Ten Things I Wish I’d Known About bash](https://zwischenzugs.com/2018/01/06/ten-things-i-wish-id-known-about-bash/)
 - [explainshell](https://explainshell.com/)
 - [reasonable-shell-script](https://github.com/mjambon/reasonable-shell-script)
+- [Standard Shell](https://devmanual.gentoo.org/tools-reference/bash/index.html)
 
 ## Shell scripts
 
