@@ -23,6 +23,7 @@ go by a little smoother.
 - [explainshell](https://explainshell.com/)
 - [reasonable-shell-script](https://github.com/mjambon/reasonable-shell-script)
 - [Standard Shell](https://devmanual.gentoo.org/tools-reference/bash/index.html)
+- [Minimal safe Bash script template](https://betterdev.blog/minimal-safe-bash-script-template/)
 
 ## Shell scripts
 
