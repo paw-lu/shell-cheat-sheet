@@ -24,6 +24,7 @@ go by a little smoother.
 - [reasonable-shell-script](https://github.com/mjambon/reasonable-shell-script)
 - [Standard Shell](https://devmanual.gentoo.org/tools-reference/bash/index.html)
 - [Minimal safe Bash script template](https://betterdev.blog/minimal-safe-bash-script-template/)
+- [Linux Terminal Tools](https://ketancmaheshwari.github.io/pdfs/LPT_LISA.pdf)
 
 ## Shell scripts
 
